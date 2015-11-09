@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Christmas Recipes
+title: Simsip
 home: true
 ---

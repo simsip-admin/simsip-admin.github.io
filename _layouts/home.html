@@ -4,22 +4,4 @@
 	
 	{{ content }}
 	
-	<nav class="grid">
-	    <ul>
-	        {% for p in site.pages %}
-	        {% if p.home %}
-	        {% else %}
-	        <li>
-	        	<a href="{{ site.baseurl }}{{ p.url }}">
-		        <div class="img-wrapper">
-	        		<img src="{{ p.image }}" />
-	        	</div>
-		        <h2>{{ p.title }}</h2>
-		        </a>
-	        </li>
-	        {% endif %}
-	        {% endfor %}
-	    </ul>
-	</nav>
-
 {% include foot.html %}
