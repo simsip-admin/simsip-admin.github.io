@@ -7,6 +7,8 @@ home: true
 
 <h2><a href="http://simsip-admin.github.io/InApp/">Xamarin Forms Dependency Service for In-App Purchases</a></h2>
 
+#### Xamarin Forms &bull; DependencyService &bull; In-App Purchases
+
 Xamarin Forms support for cross-platform in-app purchasing.
 
 <img src="images/screenshot-ios-inapp.PNG" width="40%">  <img src="images/screenshot-android-inapp.png" width="40%">
@@ -14,6 +16,8 @@ Xamarin Forms support for cross-platform in-app purchasing.
 ----------
 
 <h2><a href="http://simsip-admin.github.io/FortumoInApp/">Xamarin Forms Dependency Service for Carrier In-App Purchases (Fortumo)</a></h2>
+
+#### Xamarin Forms &bull; DependencyService &bull; In-App Purchases &bull; Carrier Billing
 
 Xamarin Forms support for cross-platform in-app purchasing via Fortumo for carrier billing.
 
