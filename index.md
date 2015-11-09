@@ -4,7 +4,8 @@ title: Bill McRoberts
 home: true
 ---
 
-## Dependency Service for In-App Purchases
+
+<h2><a href="http://simsip-admin.github.io/InApp/">Dependency Service for In-App Purchases</a></h2>
 
 Xamarin Forms support for cross-platform in-app purchasing.
 
