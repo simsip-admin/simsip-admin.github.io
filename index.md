@@ -44,7 +44,7 @@ Xamarin binding to a legacy Google Play release. This was before the Google Play
 ----------
 
 <h2><a href="http://simsip-admin.github.io/Models/">Slack Sandbox</a></h2>
-Xamarin Forms bull; Custom Rendering bull; Xamarin.Auth
+Xamarin Forms &bull; Custom Rendering &bull; Xamarin.Auth
 
 Beginning sandbox repository for building out a Xamarin Forms implementation for Slack. Currently has the Xamarin.Auth in place.
 
