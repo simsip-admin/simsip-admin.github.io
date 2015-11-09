@@ -16,6 +16,8 @@ home: true
 
 Xamarin Forms support for cross-platform in-app purchasing via Fortumo for carrier billing.
 
+<img src="images/screenshot-android-inapp.png" width="40%">
+
 # Legacy Google Play Binding
 Xamarin binding to a legacy Google Play release. This was before the Google Play component from Xamarin had stabilized. Has good examples of handling Binding issues.
 
