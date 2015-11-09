@@ -5,6 +5,7 @@ home: true
 ---
 
 ## Dependency Service for In-App Purchases
+
 ### Xamarin Forms support for cross-platform in-app purchasing.
 
 ### ([http://simsip-admin.github.io/InApp/](http://simsip-admin.github.io/InApp/ "Dependency Service for In-App Purchases"))
