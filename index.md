@@ -68,7 +68,7 @@ Pending in the following stores (China):
 
 Binding a Java Library &bull; Java Bindings Metadata 
 
-<img src="images/google_play.png" width="10%">
+<img src="images/google_play.png" width="20%">
 
 
 Xamarin binding to a legacy Google Play release. This was before the Google Play component from Xamarin had stabilized. Has good examples of handling Binding issues.
@@ -78,7 +78,7 @@ Xamarin binding to a legacy Google Play release. This was before the Google Play
 <h2><a href="http://simsip-admin.github.io/Models/">Slack Sandbox</a></h2>
 Xamarin Forms &bull; Custom Rendering &bull; Xamarin.Auth &bull; Refit
 
-<img src="images/slack.png" width="10%">
+<img src="images/slack.png" width="20%">
 
 Beginning sandbox repository for building out a Xamarin Forms implementation for Slack. Currently has the Xamarin.Auth in place and building out web api with Refit.
 
