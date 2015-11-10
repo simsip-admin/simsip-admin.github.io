@@ -25,7 +25,7 @@ Xamarin Forms support for cross-platform in-app purchasing via Fortumo for carri
 
 ----------
 
-<h2><a href="http://linerunner3d.com">LineRunner 3D</a></h2>
+<h2><a href="http://linerunner3d.com">Linerunner 3D</a></h2>
 
 MonoGame &bull; Cocos2D-XNA/CocosSharp &bull; Internationalization &bull; File handling &bull; Sqlite.Net &bull; In-app Purchasing &bull; Advertising &bull; HockeyApp
 
