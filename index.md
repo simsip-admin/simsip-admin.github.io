@@ -31,6 +31,11 @@ MonoGame &bull; Cocos2D-XNA/CocosSharp &bull; Internationalization &bull; File h
 
 Set on a gigantic pad of paper, tap your way through a three dimensional world of lines and obstacles.
 
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlOxO9rtKj8?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
 Use advanced controls to help you navigate:
 
 * rotate and scroll your view
@@ -54,33 +59,31 @@ Pending in the following stores (China):
 * Mobile 360
 * Tencent
 
-
-~
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlOxO9rtKj8?rel=0" frameborder="0" allowfullscreen></iframe>
-
-~
-
 ----------
 
 <h2><a href="http://simsip-admin.github.io/Play/">Legacy Google Play Binding</a></h2>
 
 Binding a Java Library &bull; Java Bindings Metadata 
 
+Xamarin binding to a legacy Google Play release.
+
 <img src="images/google_play.png" width="20%">
 
 
-Xamarin binding to a legacy Google Play release. This was before the Google Play component from Xamarin had stabilized. Has good examples of handling Binding issues.
+ This was before the Google Play component from Xamarin had stabilized. Has good examples of handling Binding issues.
 
 ----------
 
 <h2><a href="http://simsip-admin.github.io/Models/">Slack Sandbox</a></h2>
 Xamarin Forms &bull; Custom Rendering &bull; Xamarin.Auth &bull; Refit
 
+Beginning sandbox repository for building out a Xamarin Forms implementation for Slack. 
+
 <img src="images/slack.png" width="20%">
 
-Beginning sandbox repository for building out a Xamarin Forms implementation for Slack. Currently has the Xamarin.Auth in place and building out web api with Refit.
+Currently has the Xamarin.Auth in place and building out web api with Refit.
+
+----------
 
 
 
