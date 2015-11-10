@@ -31,7 +31,7 @@ MonoGame &bull; Cocos2D-XNA/CocosSharp &bull; Internationalization &bull; File h
 
 Set on a gigantic pad of paper, tap your way through a three dimensional world of lines and obstacles.
 
-</p>
+<p/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JlOxO9rtKj8?rel=0" frameborder="0" allowfullscreen></iframe>
 
