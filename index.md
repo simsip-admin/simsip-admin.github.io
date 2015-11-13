@@ -17,7 +17,7 @@ Xamarin Forms support for cross-platform in-app purchasing.
 
 <h2><a href="http://simsip-admin.github.io/FortumoInApp/">Xamarin Forms Dependency Service for Carrier In-App Purchases (Fortumo)</a></h2>
 
-Binding a Java Library &bull; Xamarin Forms &bull; DependencyService &bull; In-App Purchases &bull; Carrier Billing
+Binding a Java Library &bull; Android Services &bull; Xamarin Forms &bull; DependencyService &bull; In-App Purchases &bull; Carrier Billing
 
 Xamarin Forms support for cross-platform in-app purchasing via Fortumo for carrier billing.
 
@@ -27,7 +27,7 @@ Xamarin Forms support for cross-platform in-app purchasing via Fortumo for carri
 
 <h2><a href="http://linerunner3d.com">Linerunner 3D</a></h2>
 
-MonoGame &bull; Cocos2D-XNA/CocosSharp &bull; Internationalization &bull; File handling &bull; Sqlite.Net &bull; In-app Purchasing &bull; Advertising &bull; HockeyApp
+MonoGame &bull; Cocos2D-XNA/CocosSharp &bull; Internationalization &bull; File handling &bull; Sqlite.Net &bull; Android Services &bull; In-app Purchasing &bull; Advertising &bull; HockeyApp
 
 Set on a gigantic pad of paper, tap your way through a three dimensional world of lines and obstacles.
 
